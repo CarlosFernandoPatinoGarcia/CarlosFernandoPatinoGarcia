@@ -1,11 +1,11 @@
-# ¡Hola! Soy Carlos Fernando Patiño García 👋
+# ¡Hola! Soy Carlos Patiño 👋
 
 Bienvenido a mi perfil de GitHub. Soy estudiante apasionado por el desarrollo de software,
 construyendo proyectos académicos y personales que me ayudan a crecer como desarrollador.
 
 ---
 
-## 🙋 Sobre mí
+## 🧑‍🎓 Sobre mí
 
 Soy estudiante de desarrollo de software en proceso de aprendizaje continuo.
 Me interesa tanto el desarrollo web como la programación orientada a objetos en Java.
@@ -48,9 +48,10 @@ Software de gestión de ventas y facturas construido con Java y JavaFX, usando A
 Sistema de servicios de transporte desarrollado en Java.
 **Stack:** Java
 
-### 5. [Syncopation](https://github.com/Misstery13/Syncopation)
-Juego web de ritmo y combate estilo arcade.
+### ⭐ 5. [Syncopation](https://github.com/Misstery13/Syncopation)
+Juego web de ritmo estilo arcade inspirado en el icónico juego japonés Rhythm Heaven.
 **Stack:** TypeScript, CSS, HTML, JavaScript
+- Puedes jugarlo en: https://syncopation-eight.vercel.app/
 
 ---
 
@@ -66,5 +67,5 @@ He tenido la oportunidad de participar y colaborar en proyectos junto a otros de
 
 ## 📬 Contacto
 
-- **LinkedIn:** [pendiente]
-- **Email:** [pendiente]
+- **LinkedIn:** www.linkedin.com/in/carlos-fernando-patiño-garcía-570a6b3b2
+- **Email:** carlitoscharlie2005@gmail.com
